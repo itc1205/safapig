@@ -4,12 +4,12 @@ This document will represent all of capabilities of SAFAPIG, and document some a
 
 ## Goals of this Gateway
 
-- [] Implement basic domain logic of Gateway
-- [] Implement logic for working with configuration files
-- [] Implement logic for dynamic registration of API endpoints
-- [] Map logic to one of the many frameworks (Actix, etc..)
-- [] Write basic tests
-- [] Implement Authentification and Authorization support
+- [ ] Implement basic domain logic of Gateway
+- [ ] Implement logic for working with configuration files
+- [ ] Implement logic for dynamic registration of API endpoints
+- [ ] Map logic to one of the many frameworks (Actix, etc..)
+- [ ] Write basic tests
+- [ ] Implement Authentification and Authorization support
 
 ## How to run
 
